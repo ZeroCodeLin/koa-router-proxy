@@ -1,0 +1,24 @@
+{
+  "name": "koa-router-proxy",
+  "version": "0.0.2",
+  "description": "koa-router-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroCodeLin/koa-router-proxy.git"
+  },
+  "author": "zero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeroCodeLin/koa-router-proxy/issues"
+  },
+  "homepage": "https://github.com/ZeroCodeLin/koa-router-proxy#readme",
+  "devDependencies": {
+    "http-proxy": "^1.17.0",
+    "koa": "^2.8.1",
+    "koa-router": "^7.4.0"
+  }
+}
