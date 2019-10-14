@@ -1,6 +1,6 @@
 {
   "name": "koa-router-proxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "koa-router-proxy",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ZeroCodeLin/koa-router-proxy#readme",
   "devDependencies": {
+    "chalk": "^2.4.2",
     "http-proxy": "^1.17.0",
     "koa": "^2.8.1",
     "koa-router": "^7.4.0"

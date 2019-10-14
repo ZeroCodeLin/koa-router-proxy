@@ -10,6 +10,11 @@ router.get('/', async (ctx, next) => {
     }
 })
 
+router.post('/api', async (ctx, next) => {
+    ctx.body = 'this is a post response!'
+})
+
+app.use(router.routes());
 app.use(rou.routes());
 
 app.listen(3000, () => {
