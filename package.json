@@ -3,6 +3,14 @@
   "version": "0.0.3",
   "description": "koa-router-proxy",
   "main": "index.js",
+  "keywords": [
+    "node",
+    "http",
+    "framework",
+    "middleware",
+    "router",
+    "proxy"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
